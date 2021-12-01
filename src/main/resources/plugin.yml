@@ -1,0 +1,5 @@
+name: CustomHitDelay
+version: '${project.version}'
+main: dev.bleepo.customhitdelay.Main
+authors: [ Bleepo ]
+description: Hit people faster lol

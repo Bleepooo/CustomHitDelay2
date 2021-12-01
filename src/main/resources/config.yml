@@ -1,0 +1,6 @@
+#This modifies the delay on attacking a player. 1 tick = 50ms. You're going to have to play with this value until you get the desired result
+max-ticks: 10
+
+#This is the default ticks. This setting will modify everything BUT the player. Id reccomend not touching this setting.
+#Default is 20
+default-ticks: 20
