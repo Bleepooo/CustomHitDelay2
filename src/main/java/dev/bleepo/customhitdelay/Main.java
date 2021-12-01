@@ -12,5 +12,6 @@ public final class Main extends JavaPlugin {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new OnDamage(), this);
+        saveDefaultConfig();
     }
 }
